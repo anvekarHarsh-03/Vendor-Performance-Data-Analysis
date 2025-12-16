@@ -70,5 +70,5 @@ Implications:
    * Targeted discounting or marketing campaigns can unlock incremental revenue.
 
 # Included Files
-   [jupyter Notebook](VendorPerformanceAnalysis.ipynb)
+   [jupyter Notebook](VendorPerformanceAnalysis.ipynb) \n
    [dataset](dataset)
