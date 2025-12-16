@@ -29,3 +29,42 @@ Analysis reveals that vendor performance is highly unequal: a small group of top
 * **Price Does Not Drive Sales or Profitability** : Correlation analysis shows that Purchase price vs. total sales dollars: –0.01 and Purchase price vs. gross profits: –0.02. These near-zero correlations indicate that price variation does not significantly influence sales revenue or profitability.
 * **Bulk ordering leads to meaningful reductions in unit purchase price**, suggesting a clear cost-optimization strategy. Vendors respond favorably to larger orders, enabling procurement to leverage scale for improved margins.
 
+<img width="1182" height="666" alt="Screenshot 2025-09-15 010038" src="https://github.com/user-attachments/assets/855bcc44-3161-4bc6-a0e6-b44e704cf2c9" />
+
+### Identifying Brands Requiring Pricing or Promotional Adjustments
+These are the Brands showing Low sales performance but High profit margins and may benefit from targeted pricing realignment or promotional visibility to unlock untapped sales volume.
+
+<img width="800" height="500" alt="sactterplot_for_lowPerformingBrands" src="https://github.com/user-attachments/assets/27eba02f-d42e-47a7-9a1e-ae55bb42a2f6" />
+
+### Highest-Performing Vendors & Brands
+Several vendors consistently outperform peers across:
+* Sales quantity
+* Sales dollars
+* Gross profit contribution
+These vendors form the core strategic group for long-term partnerships.
+
+<img width="800" height="400" alt="Top10_vendors_and_brands_bySales" src="https://github.com/user-attachments/assets/7ee363f9-e4b4-49ec-b41c-bffa80a000d6" />
+
+### Vendors With the Largest Financial Contribution
+Ranking vendors by total purchase dollars highlights which partners drive majority procurement spending, enabling more focused contract management and negotiation strategies.
+65.69% of total spending is concentrated within the top 10 vendors. This concentration poses both opportunity (volume leverage) and risk (over-dependency).
+
+<img width="650" height="725" alt="Screenshot 2025-12-16 122656" src="https://github.com/user-attachments/assets/821ddddc-f986-4627-9727-2e1ac4796bf4" />
+
+
+### Bulk Purchase Pricing Optimization
+Bulk ordering reduces unit prices significantly.
+Implications:
+* Procurement teams can negotiate tiered pricing based on volume brackets.
+* Vendors benefit from predictable demand; buyers benefit from cost reductions.
+* Analytics can determine optimal order sizes for maximum savings.
+
+# RECOMMENDATIONS
+1. Consolidate or Renegotiate Underperforming Vendors
+     * Vendors with low sales contribution, inconsistent pricing, or delivery inefficiencies should be deprioritized or consolidated.
+2. Expand Strategic Partnerships With Top Vendors
+     * Top-performing vendors justify: Preferential contracts, Increased procurement volume and Joint forecasting for volume-based discounts
+3. Implement Bulk Purchasing Strategy
+    * Formalize bulk order guidelines to ensure consistent access to lower unit prices.
+4. Focus on Brands With High Margins but Low Throughput
+   * Targeted discounting or marketing campaigns can unlock incremental revenue.
