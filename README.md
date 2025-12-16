@@ -1,4 +1,4 @@
-# Project Background
+<img width="1177" height="662" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/9e8d08df-c268-4e8c-8e50-9cb2434ac288" /># Project Background
 Vendor-dependent businesses face recurring profit leakage due to inconsistent vendor performance. With over 120+ vendors, hundreds of product lines, and wide variability in pricing, delivery reliability, and sales throughput, understanding which vendors add value, which destroy margin, and where procurement risk is concentrated is critical.
 
 This project analyzes vendor-level performance using sales, procurement, and margin metrics. With over 100+ active vendors, multiple brands, and varied purchase volumes, identifying which partners create value—and which erode profitability—is essential for operational efficiency.
@@ -29,7 +29,8 @@ Analysis reveals that vendor performance is highly unequal: a small group of top
 * **Price Does Not Drive Sales or Profitability** : Correlation analysis shows that Purchase price vs. total sales dollars: –0.01 and Purchase price vs. gross profits: –0.02. These near-zero correlations indicate that price variation does not significantly influence sales revenue or profitability.
 * **Bulk ordering leads to meaningful reductions in unit purchase price**, suggesting a clear cost-optimization strategy. Vendors respond favorably to larger orders, enabling procurement to leverage scale for improved margins.
 
-<img width="1182" height="666" alt="Screenshot 2025-09-15 010038" src="https://github.com/user-attachments/assets/855bcc44-3161-4bc6-a0e6-b44e704cf2c9" />
+<img width="1177" height="662" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/1b68ca8d-d46c-409a-b5ae-d609aaa2d677" />
+
 
 ### Identifying Brands Requiring Pricing or Promotional Adjustments
 These are the Brands showing Low sales performance but High profit margins and may benefit from targeted pricing realignment or promotional visibility to unlock untapped sales volume.
