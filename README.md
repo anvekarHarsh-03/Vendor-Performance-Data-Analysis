@@ -1,4 +1,4 @@
-<img width="1177" height="662" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/9e8d08df-c268-4e8c-8e50-9cb2434ac288" /># Project Background
+# Project Background
 Vendor-dependent businesses face recurring profit leakage due to inconsistent vendor performance. With over 120+ vendors, hundreds of product lines, and wide variability in pricing, delivery reliability, and sales throughput, understanding which vendors add value, which destroy margin, and where procurement risk is concentrated is critical.
 
 This project analyzes vendor-level performance using sales, procurement, and margin metrics. With over 100+ active vendors, multiple brands, and varied purchase volumes, identifying which partners create value—and which erode profitability—is essential for operational efficiency.
