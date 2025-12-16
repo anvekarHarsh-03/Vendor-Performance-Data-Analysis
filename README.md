@@ -72,4 +72,6 @@ Implications:
 
 # Included Files
    [jupyter Notebook](VendorPerformanceAnalysis.ipynb) <br>
-   [dataset](dataset)
+   [dataset](dataset) <br>
+   [PowerBI dashboard](VendorPerformanceDashboard.pbix)
+
