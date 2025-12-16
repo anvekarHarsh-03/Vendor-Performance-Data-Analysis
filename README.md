@@ -68,3 +68,7 @@ Implications:
     * Formalize bulk order guidelines to ensure consistent access to lower unit prices.
 4. Focus on Brands With High Margins but Low Throughput
    * Targeted discounting or marketing campaigns can unlock incremental revenue.
+
+# Included Files
+   [jupyter Notebook](VendorPerformanceAnalysis.ipynb)
+   [dataset](dataset)
