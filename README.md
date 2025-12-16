@@ -12,3 +12,4 @@ This project uses analytics to:
 * Recommend interventions to improve margins and vendor selection
 
 # Data Structure
+<img width="600" height="500" alt="dataset ERD diagram" src="https://github.com/user-attachments/assets/704d6406-79a0-4cb6-b1ea-c6b9a564df34" />
