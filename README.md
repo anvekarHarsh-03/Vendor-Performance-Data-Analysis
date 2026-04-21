@@ -71,7 +71,7 @@ Implications:
    * Targeted discounting or marketing campaigns can unlock incremental revenue.
 
 # Included Files
-   [jupyter Notebook](VendorPerformanceAnalysis.ipynb) <br>
+   [jupyter Notebook](python/VendorPerformanceAnalysis.ipynb) <br>
    [dataset](dataset) <br>
    [PowerBI dashboard](VendorPerformanceDashboard.pbix)
 
